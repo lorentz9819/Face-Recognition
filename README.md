@@ -11,4 +11,4 @@ First of all, we start by choosing and defining a dataset. In this case, we used
 
 In the instruction of the Project, it was given a free choice in what architecture could be used, like SVM, CNN etc….
 Personally, I tried both SVM and CNN, and I find better results with this last one. Obviously, I tried several combinations of different CNN-based architecture until I found the one that satisfy the requirements of a good precision and, not for a second choice, a good efficiency.
-The dataset can 
+The dataset can be found at: https://www.kaggle.com/deadskull7/fer2013
